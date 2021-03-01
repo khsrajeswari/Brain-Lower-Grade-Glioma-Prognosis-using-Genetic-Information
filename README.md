@@ -1,0 +1,2 @@
+# Brain-Lower-Grade-Glioma-Prognosis-using-Genetic-Information
+This project mainly focused on classifying clinical gene data of prostate cancer to find meaningful information like biomarkers. Performed and evaluated different classification techniques like SVM, Naïve Bayes and Random Forest on the gene data of prostate cancer patients to find which classification technique gives better accuracy and performance depending on several factors.
